@@ -8,3 +8,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_8", "category_8", 8000, "8/1/2018", "7/1/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_9", "category_9", 9000, "9/1/2018", "8/1/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("project_10", "category_10", 10000, "10/1/2018", "0/1/2018");
+
+INSERT INTO users ()
